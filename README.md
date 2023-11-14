@@ -26,7 +26,7 @@ The script **QM1.sh** will create and setup a new "standard" IBMMQ queue manager
 
 ## Creating a new Topic
 
-Log onto the IBMMQ web interface on http://localhost:9443
+Log onto the IBMMQ web interface on https://localhost:9443
 
 username: **mqadmin**
 password: **mqadmin**
