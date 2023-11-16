@@ -26,6 +26,7 @@ wget mq-dev-config.mqsc https://raw.githubusercontent.com/ibm-messaging/mq-dev-s
 #   Add the sample config to the queue
 #
 runmqsc QM1 < "./mq-dev-config.mqsc"
+runmqsc QM1 < /home/data/MQ.mqsc
 cd /opt/mqm/bin
 #
 #   Set the permissions on the queue fort adding and reading
